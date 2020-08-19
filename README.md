@@ -1,6 +1,6 @@
 # Hi there
 
-<a href="https://mucahiddogan.github.io" target="_blank">MD</a> <a href="https://twitter.com/mucahiddogann" target="_blank">TWITTER</a> <a href="https://linkedin.com/in/mucahiddogan" target="_blank">LINKEDIN</a> 
+<a href="https://mucahiddogan.github.io" target="_blank">md</a> <a href="https://twitter.com/mucahiddogann" target="_blank">twitter</a> <a href="https://linkedin.com/in/mucahiddogan" target="_blank">linkedin</a> 
 
 
 <a href="https://github.com/mucahiddogan/mucahiddogan">
