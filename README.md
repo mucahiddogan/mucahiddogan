@@ -1,12 +1,6 @@
 # Hi there
 
-<a href="https://twitter.com/mucahiddogann">Twitter</a>
-
-
-<a href="https://linkedin.com/in/mucahiddogan">Linkedin</a>
-
-
-<a href="https://mucahiddogan.github.io">mucahiddogan.github.io</a>
+<a href="https://twitter.com/mucahiddogann">Twitter</a> <a href="https://linkedin.com/in/mucahiddogan">Linkedin</a> <a href="https://mucahiddogan.github.io">md</a>
 
 
 <a href="https://github.com/mucahiddogan/mucahiddogan">
