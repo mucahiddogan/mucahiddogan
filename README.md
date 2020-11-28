@@ -3,12 +3,13 @@
 <a href="https://mucahiddogan.github.io" target="_blank">md</a> <a href="https://twitter.com/mucahiddogann" target="_blank">twitter</a> <a href="https://linkedin.com/in/mucahiddogan" target="_blank">linkedin</a> 
 
 
-<a href="https://github.com/mucahiddogan/mucahiddogan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahiddogan&show_icons=true&theme=radical" />
-</a>
 <a href="https://github.com/mucahiddogan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mucahiddogan&show_icons=true&theme=radical" alt="Md's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mucahiddogan&show_icons=true&theme=onedark&line_height=33&count_private=true" alt="Md's GitHub Stats" />
 </a>
+<a href="https://github.com/mucahiddogan/mucahiddogan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahiddogan&show_icons=true&theme=onedark&hide=ruby&line_height=33" />
+</a>
+
 
 
 <!--
